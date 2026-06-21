@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Dnyaneshwar — an Edge AI / ML engineer on an active journey into embedded intelligence. I currently work at a Tier 1 automotive supplier where I design and integrate machine learning solutions for safety-critical and real-time systems.
+I'm Dnyaneshwar — an Edge AI / ML engineer on an active journey into embedded intelligence. I currently work at a Tier 1 automotive supplier where I on application layer.
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dnyaneshwar-1529?label=Follow&style=social)](https://github.com/dnyaneshwar-1529)
 
@@ -22,9 +22,8 @@ I focus on delivering dependable, efficient AI for embedded platforms with pract
 
 ## 💼 Professional Snapshot
 
-- Role: Embedded Software / Edge AI Engineer
+- Role: Software Engineer
 - Domain: Automotive (Tier 1 supplier) — working on ECUs and software stacks that require determinism, safety, and reliability.
-- Strengths: Bringing ML to production-grade embedded systems, cross-team integration, and hardware-aware optimization.
 
 ## 🛠 Skills & Technologies
 
@@ -41,8 +40,6 @@ I focus on delivering dependable, efficient AI for embedded platforms with pract
 - Integrated ML workloads with FreeRTOS/Zephyr and tuned scheduling for real-time latency constraints.
 - Contributed to AUTOSAR-aligned middleware for sensor fusion pipelines in automotive ECUs.
 
-(If you'd like, I can link to specific repos/projects here — share the repo names and I'll add them.)
-
 ## 🤝 Collaboration & Interests
 
 I'm open to collaborations on Edge AI, embedded ML tooling, automotive software, and model optimization for constrained devices. I enjoy solving cross-domain problems where hardware, firmware, and ML meet.
@@ -50,7 +47,7 @@ I'm open to collaborations on Edge AI, embedded ML tooling, automotive software,
 ## 📫 Connect
 
 - GitHub: https://github.com/dnyaneshwar-1529
-- LinkedIn / Email: add your preferred contact details here and I will include them.
+- Email :dnyaneshwarwalunje29@gmail.com
 
 ---
 
